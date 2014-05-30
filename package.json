@@ -1,6 +1,6 @@
 {
   "name": "knex-schema-file-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Knex schema file based loader",
   "main": "lib/loader.js",
   "scripts": {
